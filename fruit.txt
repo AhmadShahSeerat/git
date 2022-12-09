@@ -1,7 +1,1 @@
-this is a my fruit box
-
-now im pushing it to github
-
-second pushing to git hub
-
-checking lesson 25
+only basira
